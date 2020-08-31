@@ -121,11 +121,6 @@ entry!('savarese2019function',
   title('How do infinite width bounded norm networks look in function space?'),
   arxiv(2019),
 )
-entry!('neyshabur2014implicit',
-       author('Behnam Neyshabur and Ryota Tomioka and Nathan Srebro'),
-  title('In search of the real inductive bias: On the role of implicit regularization in deep learning'),
-  arxiv(2014),
-)
 entry!('eldan2016depth',
        author('R. Eldan and O. Shamir'),
   title('The Power of Depth for Feedforward Neural Networks'),
